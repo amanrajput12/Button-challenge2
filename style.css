@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+button{
+  display: block;
+  height: 100%;
+  margin-top: 400px;
+  margin-left: 700px;
+  background-color: black;
+
+}
+.btn{
+  color: white;
+  border: 2px solid rgb(231, 231, 105);
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: grab;
+}
+
+.btn:hover{
+  box-shadow: 0 0 4px 4px rgb(228, 237, 44);
+ 
+ }
+ 
+ 
+  
